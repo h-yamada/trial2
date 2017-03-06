@@ -1,4 +1,4 @@
-[![Coverage Status](https://coveralls.io/repos/github/h-yamada/trial/badge.svg?branch=master)](https://coveralls.io/github/h-yamada/trial?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/h-yamada/trial2/badge.svg?branch=master)](https://coveralls.io/github/h-yamada/trial2?branch=master)
 
 GOで[coveralls](https://coveralls.io/)を使うサンプル
 

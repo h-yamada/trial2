@@ -14,8 +14,6 @@ func TestFizzbuzz(t *testing.T) {
 		}
 	*/
 	testData := map[int]string{
-		1:  "Nothing",
-		3:  "Fizz",
 		5:  "Buzz",
 		15: "FizzBuzz",
 	}
